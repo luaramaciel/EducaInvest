@@ -264,12 +264,10 @@ http://localhost:8080
 
 ---
 
-## 👨‍💻 Desenvolvedores
+## 👨‍💻 
 
-Este projeto foi construído colaborativamente pelos desenvolvedores:
+Este projeto foi construído para o Hackathon – DiverseDEV 2026
 
-* **Sara Pires** - [@SarahLuthien](https://github.com/SarahLuthien)
-* **Bruno Garcia** - [@brng01](https://github.com/brng01)
 
 ---
 
