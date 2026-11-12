@@ -275,4 +275,3 @@ Este projeto foi construído para o Hackathon – DiverseDEV 2026
 
 © 2026 EducaInvest. Todos os direitos reservados.
 
-Este projeto é de propriedade exclusiva. O código-fonte está disponível publicamente apenas para fins de portfólio e demonstração. Não é permitida a reprodução, distribuição ou uso comercial de qualquer parte deste projeto (código, design ou ideias) sem autorização expressa do autor.
